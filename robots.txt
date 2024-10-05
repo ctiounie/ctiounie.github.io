@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctiounie.github.io/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/app/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/assets/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/css/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/data/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/includes/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/item/sitemap.html.gz
+Sitemap: https://ctiounie.github.io/src/sitemap.html.gz
